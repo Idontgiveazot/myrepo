@@ -2,7 +2,7 @@
 title: "Untitled"
 author: "Pablo"
 date: "2023-05-13"
-output: html_document
+output: github_document 
 ---
 # First RRR
 ```{r setup, include=FALSE}
